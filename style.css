@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background: url(fonus.jpg) no-repeat;
+    font-size: 20px;
+    width: 800px;
+    height: 900px;
+    color: bisque;
+    
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    text-decoration-color: blanchedalmond;
+}
